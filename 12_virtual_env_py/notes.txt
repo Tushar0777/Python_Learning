@@ -1,0 +1,15 @@
+python -m venv .venv
+
+ye virtual env banane ke liye 
+
+
+.\.venv\Scripts\activate
+
+ye virtual env ko activate krne ke liye 
+
+pip list > requirements.txt
+
+sari pip ke requirements ko ek alag text file me rakhne ke liye 
+
+deactivate
+to get out of venv 
